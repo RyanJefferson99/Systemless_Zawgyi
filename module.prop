@@ -1,0 +1,7 @@
+id=zawgyi_notosan
+name=Zawgyi 
+version=v1
+versionCode=1
+author=Naing Min Oo
+description= Systemlessly replace Unicode Myanmar NotoSans with Zawgyi
+minMagisk=17000
