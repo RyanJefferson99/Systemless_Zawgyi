@@ -1,6 +1,6 @@
-# Systemless Zawgyi Installer
+# Systemless Unicode Installer
 
-**This module Systemlessly replace Unicode Myanmar NotoSans with Zawgyi**
+**This module Systemlessly replace Zawgyi Myanmar NotoSans with Unicode**
 
 
 ## Notice
@@ -11,9 +11,6 @@
 
 
 ## Update Log
+
+- **v2 (June 2020)** : Updated Fonts
 - **v1 (Mar 2019)** : Initial Release
-
-
-### Credits
-
-- **Font**: Ko Aung Thura 
